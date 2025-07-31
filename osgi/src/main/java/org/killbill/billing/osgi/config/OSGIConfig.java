@@ -96,6 +96,7 @@ public interface OSGIConfig extends KillbillPlatformConfig {
              "org.killbill.commons.metrics.api," +
              "org.killbill.commons.utils.io," +
              "org.killbill.commons.utils.collect," +
+             "org.killbill.commons.health.api," +
              //
              // We also add the dependencies from own set of APIs and some osgi compendium thingies...
              //
